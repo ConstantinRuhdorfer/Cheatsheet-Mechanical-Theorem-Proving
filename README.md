@@ -1,6 +1,7 @@
 # Cheatsheet-Mechanical-Theorem-Proving
 
-This repo holds a cheatsheet containing everything related to field of mechanical theorem proving that is relevant to my work.
+This repo holds a cheatsheet containing everything related to the field of mechanical theorem proving that is relevant to my work.
+At the moment this reflects ongoning work.
 
 ## Quick note on contributing
 
